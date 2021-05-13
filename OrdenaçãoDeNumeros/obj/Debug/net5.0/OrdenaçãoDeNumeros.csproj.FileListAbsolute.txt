@@ -1,0 +1,16 @@
+C:\Users\gsilva.sts\Desktop\GelvaneNascimentoSilva\OrdenaçãoDeNumeros\OrdenaçãoDeNumeros\bin\Debug\net5.0\OrdenaçãoDeNumeros.exe
+C:\Users\gsilva.sts\Desktop\GelvaneNascimentoSilva\OrdenaçãoDeNumeros\OrdenaçãoDeNumeros\bin\Debug\net5.0\OrdenaçãoDeNumeros.deps.json
+C:\Users\gsilva.sts\Desktop\GelvaneNascimentoSilva\OrdenaçãoDeNumeros\OrdenaçãoDeNumeros\bin\Debug\net5.0\OrdenaçãoDeNumeros.runtimeconfig.json
+C:\Users\gsilva.sts\Desktop\GelvaneNascimentoSilva\OrdenaçãoDeNumeros\OrdenaçãoDeNumeros\bin\Debug\net5.0\OrdenaçãoDeNumeros.runtimeconfig.dev.json
+C:\Users\gsilva.sts\Desktop\GelvaneNascimentoSilva\OrdenaçãoDeNumeros\OrdenaçãoDeNumeros\bin\Debug\net5.0\OrdenaçãoDeNumeros.dll
+C:\Users\gsilva.sts\Desktop\GelvaneNascimentoSilva\OrdenaçãoDeNumeros\OrdenaçãoDeNumeros\bin\Debug\net5.0\ref\OrdenaçãoDeNumeros.dll
+C:\Users\gsilva.sts\Desktop\GelvaneNascimentoSilva\OrdenaçãoDeNumeros\OrdenaçãoDeNumeros\bin\Debug\net5.0\OrdenaçãoDeNumeros.pdb
+C:\Users\gsilva.sts\Desktop\GelvaneNascimentoSilva\OrdenaçãoDeNumeros\OrdenaçãoDeNumeros\obj\Debug\net5.0\OrdenaçãoDeNumeros.csprojAssemblyReference.cache
+C:\Users\gsilva.sts\Desktop\GelvaneNascimentoSilva\OrdenaçãoDeNumeros\OrdenaçãoDeNumeros\obj\Debug\net5.0\OrdenaçãoDeNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gsilva.sts\Desktop\GelvaneNascimentoSilva\OrdenaçãoDeNumeros\OrdenaçãoDeNumeros\obj\Debug\net5.0\OrdenaçãoDeNumeros.AssemblyInfoInputs.cache
+C:\Users\gsilva.sts\Desktop\GelvaneNascimentoSilva\OrdenaçãoDeNumeros\OrdenaçãoDeNumeros\obj\Debug\net5.0\OrdenaçãoDeNumeros.AssemblyInfo.cs
+C:\Users\gsilva.sts\Desktop\GelvaneNascimentoSilva\OrdenaçãoDeNumeros\OrdenaçãoDeNumeros\obj\Debug\net5.0\OrdenaçãoDeNumeros.csproj.CoreCompileInputs.cache
+C:\Users\gsilva.sts\Desktop\GelvaneNascimentoSilva\OrdenaçãoDeNumeros\OrdenaçãoDeNumeros\obj\Debug\net5.0\OrdenaçãoDeNumeros.dll
+C:\Users\gsilva.sts\Desktop\GelvaneNascimentoSilva\OrdenaçãoDeNumeros\OrdenaçãoDeNumeros\obj\Debug\net5.0\ref\OrdenaçãoDeNumeros.dll
+C:\Users\gsilva.sts\Desktop\GelvaneNascimentoSilva\OrdenaçãoDeNumeros\OrdenaçãoDeNumeros\obj\Debug\net5.0\OrdenaçãoDeNumeros.pdb
+C:\Users\gsilva.sts\Desktop\GelvaneNascimentoSilva\OrdenaçãoDeNumeros\OrdenaçãoDeNumeros\obj\Debug\net5.0\OrdenaçãoDeNumeros.genruntimeconfig.cache
